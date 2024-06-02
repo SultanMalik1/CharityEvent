@@ -25,6 +25,23 @@
 and many more, including code architecture and reusability.
 
 
+## :camera: Screenshots:
+
+![charityEvent-screenshot](https://github.com/SultanMalik1/CharityEvent/assets/128871821/c9bdb96c-5f81-4b7f-b009-f2ea548b31cf)
+
+![events](https://github.com/SultanMalik1/CharityEvent/assets/128871821/f6a45797-5bae-4499-87f5-11c45bce5ef5)
+
+![Screenshot (165)](https://github.com/SultanMalik1/CharityEvent/assets/128871821/ab688971-950a-4f0a-89eb-4e7b836fa723)
+
+## :gear: Tech Stack
+
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://mongodb.com/ "MongoDB")
+
+## :wrench: Stats
+
+![image](https://github.com/SultanMalik1/CharityEvent/assets/128871821/78781533-4ec3-4b7b-88c3-46a9b3822be4)
+
+
 <!-- Table of Contents -->
 <details>
 
@@ -272,22 +289,6 @@ UPLOADTHING_APP_ID=XXXXXXXXX
 - **[typescript](https://www.npmjs.com/package/typescript)**: TypeScript is a superset of JavaScript that adds static types to the language.
 
 **NOTE:** Please make sure to keep your API keys and configuration values secure and do not expose them publicly.
-
-## :camera: Screenshots:
-
-![charityEvent-screenshot](https://github.com/SultanMalik1/CharityEvent/assets/128871821/c9bdb96c-5f81-4b7f-b009-f2ea548b31cf)
-
-![events](https://github.com/SultanMalik1/CharityEvent/assets/128871821/f6a45797-5bae-4499-87f5-11c45bce5ef5)
-
-![Screenshot (165)](https://github.com/SultanMalik1/CharityEvent/assets/128871821/ab688971-950a-4f0a-89eb-4e7b836fa723)
-
-## :gear: Tech Stack
-
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Vercel](https://skillicons.dev/icons?i=vercel "Vercel")](https://vercel.app/ "Vercel") [![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://mongodb.com/ "MongoDB")
-
-## :wrench: Stats
-
-![image](https://github.com/SultanMalik1/CharityEvent/assets/128871821/78781533-4ec3-4b7b-88c3-46a9b3822be4)
 
 ## :raised_hands: Contribute
 
